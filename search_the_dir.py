@@ -1,7 +1,7 @@
 import os
 import re
 
-folder ='/home/ec2-user/dir3/'
+folder ='/'
 directory = 'neds'
 result = 'src'
 for root, dirs, files in os.walk(folder):
